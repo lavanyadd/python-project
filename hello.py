@@ -1,4 +1,4 @@
-print("Hello python")
+print("This file stores all coding exercises")
 
 # Store user text in variables using input()
 name = input("Enter your name: ")
